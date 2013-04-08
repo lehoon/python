@@ -71,7 +71,7 @@ def   dosendmail(conn):
 
 
 if __name__ == "__main__":
-	conn = getconn("42.121.129.188", "mysql", "hope2013")
+	conn = getconn("ddddddd", "dddd", "dddd")
 	dosendmail(conn)
 	closeconn(conn)
 
